@@ -1,3 +1,5 @@
+# Author : Swagat panda (Hochschule Darmstadt)
+
 from argparse import ArgumentParser
 import numpy as np
 from sudoku_solver import collect
